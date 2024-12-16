@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		110958E02D1014EA0069792C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 110958DF2D1014EA0069792C /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		110958C22D1014780069792C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		110958AB2D1014770069792C /* IconFinderApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IconFinderApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		110958C12D1014780069792C /* IconFinderAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IconFinderAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		110958CB2D1014780069792C /* IconFinderAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IconFinderAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		110958DF2D1014EA0069792C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +97,7 @@
 				110958C42D1014780069792C /* IconFinderAppTests */,
 				110958CE2D1014780069792C /* IconFinderAppUITests */,
 				110958AC2D1014770069792C /* Products */,
+				110958DF2D1014EA0069792C /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				110958E02D1014EA0069792C /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
